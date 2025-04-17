@@ -1,0 +1,7 @@
+streamlit
+Pillow 
+PyWavelets 
+scikit-image 
+scipy 
+matplotlib 
+numpy
